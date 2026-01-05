@@ -105,6 +105,28 @@ const artists = [
                     { title: "positions", duration: "2:52", url: "" },
                     { title: "no tears left to cry", duration: "3:25", url: "" }
                 ]
+            },
+            {
+                id: 7,
+                name: "Favourite songs",
+                image: "resorces/img/fav.jpg",
+                gradient: "linear-gradient(135deg, #1DB954, #1ed760)",
+                songs: [
+                    {title: "F1 Lose My Mind", url: "resources/music/fav/f1_lose_my_mind.mp3"},
+                    {title: "Anyone Who knows What Love Is", url: "resources/music/fav/anyone_who_know_what_love.mp3"},
+                    {title: "Black Out Days", url: "resources/music/fav/blackout_days.mp3"},
+                    {title: "Counting Stars", url: "resources/music/fav/counting_stars.mp3"},
+                    {title: "Glimpse of Us", url: "resources/music/fav/glimpse_os_us.mp3"},
+                    {title: "Die With a Smile", url: "resources/music/fav/Die_with_a_smile.mp3"},
+                    {title: "Dusk Till Dawn", url: "resources/music/fav/dusk_till_dawn.mp3"},
+                    {title: "Little Dark Age", url: "resources/music/fav/Little_dark_Ag.mp3"},
+                    {title: "Numb-Linkin Park", url: "resources/music/fav/numb_linkin.mp3"},
+                    {title: "Simpson Wave", url: "resources/music/fav/simpson_waves.mp3"},
+                    {title: "Maybe My Soulmate Died", url: "resources/music/fav/soulmate_die.mp3"},
+                    {title: "Starboy", url: "resources/music/fav/starboy.mp3"},
+                    {title: "Stereo Hearts", url: "resources/music/fav/stero_Hearts.mp3"},
+                    {title: "Blinding Lights", url: "resources/music/fav/blinding_lights.mp3"}
+                ]
             }
         ];
 

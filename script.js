@@ -35,10 +35,21 @@ const artists = [
                 image:"resources/img/jb.jpeg",
                 gradient: "linear-gradient(135deg, #E50914, #ff1744)",
                 songs: [
+                    { title: "Baby", url: "resources/music/justin_bieber/baby.mp3" },
+                    { title: "Let Me Love You", url: "resources/music/justin_bieber/let_me_love_you.mp3" },
+                    { title: "Peaches", url: "resources/music/justin_bieber/peaches.mp3" },
                     { title: "Mark My Words", url: "resources/music/justin_bieber/01-Mark\ My\ Words.mp3" },
-                    { title: "I'll show you", url: "resources/music/justin_bieber/02-i'll\ Show\ You\ Mean.mp3" },
+                    { title: "I'll show you", url: "resources/music/justin_bieber/02-ill_Show_You.mp3" },
                     { title: "What Do You Mean?", url: "resources/music/justin_bieber/03-What\ Do\ You\ Mean\ ?.mp3" },
                     { title: "Sorry", url: "resources/music/justin_bieber/04-Sorry.mp3" },
+                    { title: "Love Yourself", url: "resources/music/justin_bieber/05-Love\ Yourself.mp3" },
+                    { title: "Company", url: "resources/music/justin_bieber/06-Company.mp3" },
+                    { title: "No Pressure ft. Big Sean", url: "resources/music/justin_bieber/07-No\ Pressure\ ft.\ Big\ Sean.mp3" },
+                    { title: "No Sense", url: "resources/music/justin_bieber/08-No\ Sense.mp3" },
+                    { title: "Children", url: "resources/music/justin_bieber/09-Children.mp3" },
+                    { title: "Purpose", url: "resources/music/justin_bieber/10-Purpose.mp3" },
+                    { title: "Life is Worth Living", url: "resources/music/justin_bieber/11-Life\ Is\ Worth \Living.mp3" },
+                    { title: "The Feeling", url: "resources/music/justin_bieber/12-The\ Feeling.mp3" }
                 ]
             },
             {
@@ -47,10 +58,16 @@ const artists = [
                 image: "resources/img/imagine_dragon.jpeg",
                 gradient: "linear-gradient(135deg, #f59e0b, #eab308)",
                 songs: [
-                    { title: "God's Plan", duration: "3:18", url: "" },
-                    { title: "One Dance", duration: "2:54", url: "" },
-                    { title: "Hotline Bling", duration: "4:27", url: "" },
-                    { title: "In My Feelings", duration: "3:38", url: "" }
+                    { title: "Bad Liar", url: "resources/music/imagine_dragons/01-bad_liar.mp3" },
+                    { title: "Believer", url: "resources/music/imagine_dragons/02-believer.mp3" },
+                    { title: "Bones", url: "resources/music/imagine_dragons/03-bones.mp3" },
+                    { title: "Demons", url: "resources/music/imagine_dragons/04-demons.mp3" },
+                    { title: "Natural", url: "resources/music/imagine_dragons/05-natural.mp3" },
+                    { title: "Radioactive", url: "resources/music/imagine_dragons/06-radioactive.mp3" },
+                    { title: "Thunder", url: "resources/music/imagine_dragons/07-thunder.mp3" },
+                    { title: "Warriors", url: "resources/music/imagine_dragons/08-warriors.mp3" },
+                    { title: "Whatever It Takes", url: "resources/music/imagine_dragons/09-whatever_it_takes.mp3" },
+                    { title: "Enemy", url: "resources/music/imagine_dragons/10-enemy.mp3" }
                 ]
             },
             {

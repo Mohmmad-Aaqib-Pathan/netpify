@@ -76,10 +76,18 @@ const artists = [
                 image:"resources/img/score.jpeg",
                 gradient: "linear-gradient(135deg, #3b82f6, #8b5cf6)",
                 songs: [
-                    { title: "bad guy", duration: "3:14", url: "" },
-                    { title: "everything i wanted", duration: "4:05", url: "" },
-                    { title: "Happier Than Ever", duration: "4:58", url: "" },
-                    { title: "ocean eyes", duration: "3:20", url: "" }
+                 {title:"Born for this",url:"resources/music/score/born_for_this.mp3"},
+                 {title:"Bulletproof",url:"resources/music/score/bulletproof.mp3"},
+                 {title:"Dreamin",url:"resources/music/score/dreamin.mp3"},
+                 {title:"Believe",url:"resources/music/score/believe.mp3"},
+                 {title:"Glory",url:"resources/music/score/glory.mp3"},
+                 {title:"In my Bones",url:"resources/music/score/in_my_bones.mp3"},
+                 {title:"Legend",url:"resources/music/score/legend.mp3"},
+                 {title:"Miracle",url:"resources/music/score/miracle.mp3"},
+                 {title:"Revolution",url:"resources/music/score/revolution.mp3"},
+                 {title:"Stronger",url:"resources/music/score/stronger.mp3"},
+                 {title:"The Fear",url:"resources/music/score/the_fear.mp3"},
+                 {title:"Unstoppable",url:"resources/music/score/unstoppable.mp3"}
                 ]
             },
             {
@@ -88,10 +96,10 @@ const artists = [
                 image: "resources/img/ed.png",
                 gradient: "linear-gradient(135deg, #ef4444, #f97316)",
                 songs: [
-                    { title: "Shape of You", duration: "3:53", url: "" },
-                    { title: "Perfect", duration: "4:23", url: "" },
-                    { title: "Thinking Out Loud", duration: "4:41", url: "" },
-                    { title: "Photograph", duration: "4:18", url: "" }
+                    { title: "Shape of You", url: "resources/music/ed/shape_of_you.mp3" },
+                    { title: "Bad Habits", url: "resources/music/ed/bad_habits.mp3" },
+                    { title: "Beautiful People", url: "resources/music/ed/beautiful_people.mp3" },
+                    { title: "Saphire", url: "resources/music/ed/saphire.mp3" }
                 ]
             },
             {
@@ -100,16 +108,14 @@ const artists = [
                 image:"resources/img/beach_weather.jpeg",
                 gradient: "linear-gradient(135deg, #ec4899, #a855f7)",
                 songs: [
-                    { title: "7 rings", duration: "2:58", url: "" },
-                    { title: "thank u, next", duration: "3:27", url: "" },
-                    { title: "positions", duration: "2:52", url: "" },
-                    { title: "no tears left to cry", duration: "3:25", url: "" }
+                    { title: "High in Low Places", url: "resources/music/beach/high_in_low_places.mp3" },
+                    { title: "Sex,Drug,etc", url: "resources/music/beach/sex_drug_etc.mp3" }
                 ]
             },
             {
                 id: 7,
                 name: "Favourite songs",
-                image: "resorces/img/fav.jpg",
+                image: "resources/img/fav.jpg",
                 gradient: "linear-gradient(135deg, #1DB954, #1ed760)",
                 songs: [
                     {title: "F1 Lose My Mind", url: "resources/music/fav/f1_lose_my_mind.mp3"},
@@ -125,7 +131,9 @@ const artists = [
                     {title: "Maybe My Soulmate Died", url: "resources/music/fav/soulmate_die.mp3"},
                     {title: "Starboy", url: "resources/music/fav/starboy.mp3"},
                     {title: "Stereo Hearts", url: "resources/music/fav/stero_Hearts.mp3"},
-                    {title: "Blinding Lights", url: "resources/music/fav/blinding_lights.mp3"}
+                    {title: "Blinding Lights", url: "resources/music/fav/blinding_lights.mp3"},
+                    {title: "Jiya Re Alaa Wardi",url:"resources/music/fav/jiya-re.mp3" },
+                    {title: "Pehla Nasha Alaa Wardi",url:"resources/music/fav/pehla_nasha.mp3" } 
                 ]
             }
         ];

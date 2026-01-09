@@ -122,7 +122,7 @@ const artists = [
                     {title: "Anyone Who knows What Love Is", url: "resources/music/fav/anyone_who_know_what_love.mp3"},
                     {title: "Black Out Days", url: "resources/music/fav/blackout_days.mp3"},
                     {title: "Counting Stars", url: "resources/music/fav/counting_stars.mp3"},
-                    {title: "Glimpse of Us", url: "resources/music/fav/glimpse_os_us.mp3"},
+                    {title: "Glimpse of Us", url: "resources/music/fav/glimpse_of_us.mp3"},
                     {title: "Die With a Smile", url: "resources/music/fav/Die_with_a_smile.mp3"},
                     {title: "Dusk Till Dawn", url: "resources/music/fav/dusk_till_dawn.mp3"},
                     {title: "Little Dark Age", url: "resources/music/fav/Little_dark_Ag.mp3"},

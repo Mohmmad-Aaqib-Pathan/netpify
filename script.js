@@ -134,7 +134,7 @@ const artists = [
                     {title: "Blinding Lights", url: "resources/music/fav/blinding_lights.mp3"},
                     {title: "Jiya Re Alaa Wardi",url:"resources/music/fav/jiya-re.mp3" },
                     {title: "Pehla Nasha Alaa Wardi",url:"resources/music/fav/pehla_nasha.mp3" }, 
-              	    {title: "Want to Love",url:"resources/music/fav/want_to_love.mp3"
+              	    {title: "Want to Love",url:"resources/music/fav/want_to_love.mp3"}
 		  ]
             }
         ];
